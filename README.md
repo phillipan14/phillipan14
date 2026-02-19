@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Phillip 👋
 
-<!--
-**phillipan14/phillipan14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 US → NZ → Asia | 🤖 Building AI for sales & GTM | 🚀 Founder × 3
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-phillipan-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/phillipan/)
+[![Email](https://img.shields.io/badge/Email-phillip@allstonlabs.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:phillip@allstonlabs.com)
+[![Calendly](https://img.shields.io/badge/Book_a_call-006BFF?style=flat&logo=googlecalendar&logoColor=white)](https://calendly.com/phillipan)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building [Skylarq AI](https://skylarq.com) — AI-powered sales research and lead generation for B2B teams. Previously built [Homebase](https://joinhomebase.com) and spent time at McKinsey. Harvard HBS MS/MBA · Schwarzman Scholar · Forbes 30 Under 30.
+
+Interested in AI agents, outbound automation, and shipping products that actually move revenue.
+
+---
+
+### 🔨 What I'm shipping
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| [quick-brief](https://github.com/phillipan14/quick-brief) | Turn raw meeting notes into a structured brief using Claude AI | `Python` |
+
+---
+
+<sub>Auto-updated on every project release</sub>
