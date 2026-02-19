@@ -22,7 +22,7 @@ Caltech CS → McKinsey → founder. Harvard HBS MS/MBA. Schwarzman Scholar (C10
 | 🎙️ [Philoquent](https://github.com/phillipan14/philoquent) | **Voice-to-text that just works.** Hold Fn+Tab, speak naturally, release — your words appear wherever your cursor is. Live transcription preview as you talk, accurate final output. 100% local, nothing leaves your machine. Great for emails, docs, Slack messages, or anywhere you'd rather talk than type. |
 | 🎨 [Philadeck](https://github.com/phillipan14/philadeck) | **Slide decks in seconds.** Describe your topic, review an AI-generated outline, then get a full presentation with charts, images, diagrams, and 12 beautiful themes. Edit everything inline, drag to reorder, export to PowerPoint/Keynote. No signup required — runs in your browser. |
 | 🎵 [PhilHarmonic](https://github.com/phillipan14/philharmonic) | **Create music from a text prompt.** Type a mood or genre ("lo-fi beats for studying", "epic cinematic orchestral") and get original audio powered by MiniMax Music v2. 10 genre presets, waveform visualizer, download as MP3. Open-source. |
-| 🔍 [PhilTer](https://github.com/phillipan14/philter) | **LinkedIn profile change tracker.** Monitor profiles for job changes, title updates, and headline rewrites. Visual diff timeline, email notifications via Resend, demo mode with sample data. For market research purposes, obviously. |
+| 🔍 [PhilTer](https://github.com/phillipan14/philter) | **Know when your ex gets a new job before they tell anyone.** Track LinkedIn profiles for job changes, title updates, and headline rewrites. Visual diff timeline, email alerts, demo mode with sample data. For "market research" purposes. |
 
 ---
 
