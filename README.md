@@ -19,7 +19,7 @@ Caltech CS → McKinsey → founder. Harvard HBS MS/MBA. Schwarzman Scholar (C10
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [quick-brief](https://github.com/phillipan14/quick-brief) | Turn raw meeting notes into a structured brief using Claude AI | `Python` |
+
 
 ---
 
