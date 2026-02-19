@@ -23,7 +23,6 @@ Caltech CS → McKinsey → founder. Harvard HBS MS/MBA. Schwarzman Scholar (C10
 | [philter](https://github.com/phillipan14/philter) | Know when your ex gets a new job before they tell anyone. LinkedIn profile change tracker. | `TypeScript` |
 | [screen-shame](https://github.com/phillipan14/screen-shame) | A passive-aggressive screen time monitor that sends escalating Slack DMs to yourself | `Python` |
 | [infographic-generator](https://github.com/phillipan14/infographic-generator) | Generate beautiful infographics from text prompts using AI | `TypeScript` |
-| [claude-autonomy](https://github.com/phillipan14/claude-autonomy) | Claude Code skill commands and automation workflows for content publishing, scheduling, and AI-powered productivity |  |
 | [philharmonic](https://github.com/phillipan14/philharmonic) | PhilHarmonic — AI-powered music generator. Describe a vibe, get a track. | `TypeScript` |
 | [philoquent](https://github.com/phillipan14/philoquent) | Philoquent — Local voice-to-text for macOS. Hold Fn+Tab, speak, release. Runs entirely on-device with faster-whisper. | `Python` |
 | [philadeck](https://github.com/phillipan14/philadeck) | AI-powered presentation maker. Create beautiful slide decks in seconds. | `TypeScript` |
