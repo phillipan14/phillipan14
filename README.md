@@ -9,9 +9,9 @@
 
 I run [Skylarq AI](https://skylarq.com) — a general-purpose AI assistant built for go-to-market teams. Sales and GTM is full of repetitive, high-context work: researching prospects, updating CRMs, writing outreach, keeping LinkedIn active, running task workflows across tools. Skylarq handles all of it. Think of it as an AI teammate that knows your pipeline and gets things done.
 
-Previously co-founded [Homebase](https://homebase.com.vn) — raised $30M+, grew to 200+ people, and became the first YC company from Vietnam.
+Previously founded [Homebase](https://homebase.com.vn) at 24 — raised $30M+ in debt and equity, grew to 120+ people, and became the first YC company from Vietnam.
 
-Caltech CS → McKinsey → founder. Harvard HBS MS/MBA. Schwarzman Scholar (C10). Forbes 30 Under 30. 16K+ on [LinkedIn](https://linkedin.com/in/phillipan/).
+Caltech CS → McKinsey → founder. Harvard HBS MS/MBA. Schwarzman Scholar (C10). Forbes 30 Under 30. Passionate about geopolitics, AI, and building things. Former competitive NCAA swimmer.
 
 ---
 
