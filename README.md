@@ -19,7 +19,9 @@ Caltech CS → McKinsey → founder. Harvard HBS MS/MBA. Schwarzman Scholar (C10
 
 | Project | Description | Language |
 |---------|-------------|----------|
-
+| [Philoquent](https://github.com/phillipan14/philoquent) | Local voice-to-text for macOS — hold Fn+Tab, speak, release. Runs entirely on-device with faster-whisper. | Python |
+| [Philadeck](https://github.com/phillipan14/philadeck) | AI-powered presentation maker. Create beautiful slide decks in seconds. | TypeScript |
+| [AI Music Gen](https://github.com/phillipan14/ai-music-gen) | AI music generator — create music from text prompts. Free, open-source, powered by MusicGen. | TypeScript |
 
 ---
 
