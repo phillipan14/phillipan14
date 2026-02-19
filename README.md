@@ -19,9 +19,9 @@ Caltech CS → McKinsey → founder. Harvard HBS MS/MBA. Schwarzman Scholar (C10
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [girlfriend-mood-tracker](https://github.com/phillipan14/girlfriend-mood-tracker) | Cross-references text response times, emoji usage, and calendar events to predict relationship danger zones. Zero dependencies. One HTML file. | `HTML` |
 | [philter](https://github.com/phillipan14/philter) | Know when your ex gets a new job before they tell anyone. LinkedIn profile change tracker. | `TypeScript` |
-| [screen-shame](https://github.com/phillipan14/screen-shame) | A passive-aggressive screen time monitor that sends escalating Slack DMs to yourself | `Python` |
+| [philoscreen](https://github.com/phillipan14/philoscreen) | philoscreen — you love your screen too much. A passive-aggressive screen time monitor that sends escalating Slack DMs. | `Python` |
+| [girlfriend-mood-tracker](https://github.com/phillipan14/girlfriend-mood-tracker) | Cross-references text response times, emoji usage, and calendar events to predict relationship danger zones. Zero dependencies. One HTML file. | `HTML` |
 | [infographic-generator](https://github.com/phillipan14/infographic-generator) | Generate beautiful infographics from text prompts using AI | `TypeScript` |
 | [philharmonic](https://github.com/phillipan14/philharmonic) | PhilHarmonic — AI-powered music generator. Describe a vibe, get a track. | `TypeScript` |
 | [philoquent](https://github.com/phillipan14/philoquent) | Philoquent — Local voice-to-text for macOS. Hold Fn+Tab, speak, release. Runs entirely on-device with faster-whisper. | `Python` |
