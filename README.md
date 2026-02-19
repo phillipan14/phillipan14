@@ -3,7 +3,7 @@
 📍 US → Southeast Asia (Singapore/Vietnam) → San Francisco | 🚀 Founder × 2
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-phillipan-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/phillipan/)
-[![X](https://img.shields.io/badge/X-pghan14-000000?style=flat&logo=x&logoColor=white)](https://x.com/pghan14)
+[![X](https://img.shields.io/badge/X-phgan14-000000?style=flat&logo=x&logoColor=white)](https://x.com/phgan14)
 [![Email](https://img.shields.io/badge/Email-phillip@allstonlabs.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:phillip@allstonlabs.com)
 [![Calendly](https://img.shields.io/badge/Book_a_call-006BFF?style=flat&logo=googlecalendar&logoColor=white)](https://calendly.com/phillipan)
 
