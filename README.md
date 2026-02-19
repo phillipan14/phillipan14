@@ -6,7 +6,9 @@
 [![Email](https://img.shields.io/badge/Email-phillip@allstonlabs.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:phillip@allstonlabs.com)
 [![Calendly](https://img.shields.io/badge/Book_a_call-006BFF?style=flat&logo=googlecalendar&logoColor=white)](https://calendly.com/phillipan)
 
-I run [Skylarq AI](https://skylarq.com) — we help sales teams find and qualify leads faster using AI. Previously co-founded [Homebase](https://joinhomebase.com). Caltech CS.
+I run [Skylarq AI](https://skylarq.com) — an AI search engine for go-to-market teams. We help sales and GTM teams find, research, and act on the right prospects. Previously co-founded [Homebase](https://joinhomebase.com) (YC W21).
+
+Caltech CS → McKinsey → founder. Harvard HBS MS/MBA. Schwarzman Scholar (C10). Forbes 30 Under 30. 16K+ on [LinkedIn](https://linkedin.com/in/phillipan/).
 
 ---
 
