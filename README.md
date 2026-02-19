@@ -17,15 +17,16 @@ Caltech CS → McKinsey → founder. Harvard HBS MS/MBA. Schwarzman Scholar (C10
 
 ### 🔨 What I'm shipping
 
-| Project | Description | Language |
-|---------|-------------|----------|
-| [philter](https://github.com/phillipan14/philter) | Know when your ex gets a new job before they tell anyone. LinkedIn profile change tracker. | `TypeScript` |
-| [philoscreen](https://github.com/phillipan14/philoscreen) | philoscreen — you love your screen too much. A passive-aggressive screen time monitor that sends escalating Slack DMs. | `Python` |
-| [girlfriend-mood-tracker](https://github.com/phillipan14/girlfriend-mood-tracker) | Cross-references text response times, emoji usage, and calendar events to predict relationship danger zones. Zero dependencies. One HTML file. | `HTML` |
-| [infographic-generator](https://github.com/phillipan14/infographic-generator) | Generate beautiful infographics from text prompts using AI | `TypeScript` |
-| [philharmonic](https://github.com/phillipan14/philharmonic) | PhilHarmonic — AI-powered music generator. Describe a vibe, get a track. | `TypeScript` |
-| [philoquent](https://github.com/phillipan14/philoquent) | Philoquent — Local voice-to-text for macOS. Hold Fn+Tab, speak, release. Runs entirely on-device with faster-whisper. | `Python` |
-| [philadeck](https://github.com/phillipan14/philadeck) | AI-powered presentation maker. Create beautiful slide decks in seconds. | `TypeScript` |
+| Project | What it does |
+|---------|-------------|
+| 🎙️ [Philoquent](https://github.com/phillipan14/philoquent) | **Voice-to-text that just works.** Hold Fn+Tab, speak naturally, release — your words appear wherever your cursor is. Live transcription preview as you talk, accurate final output. 100% local, nothing leaves your machine. Great for emails, docs, Slack messages, or anywhere you'd rather talk than type. |
+| 🎨 [Philadeck](https://github.com/phillipan14/philadeck) | **Slide decks in seconds.** Describe your topic, review an AI-generated outline, then get a full presentation with charts, images, diagrams, and 12 beautiful themes. Edit everything inline, drag to reorder, export to PowerPoint/Keynote. No signup required — runs in your browser. |
+| 🎵 [PhilHarmonic](https://github.com/phillipan14/philharmonic) | **Create music from a text prompt.** Type a mood or genre ("lo-fi beats for studying", "epic cinematic orchestral") and get original audio powered by MiniMax Music v2. 10 genre presets, waveform visualizer, download as MP3. Open-source. |
+| 🔍 [PhilTer](https://github.com/phillipan14/philter) | **Know when your ex gets a new job before they tell anyone.** Track LinkedIn profiles for job changes, title updates, and headline rewrites. Visual diff timeline, email alerts, demo mode with sample data. For "market research" purposes. |
+| 🧠 [PhiloCal](https://github.com/phillipan14/philocal) | **Your calendar has a philosophy now.** AI scheduling assistant that monitors Gmail for meeting requests, proposes optimal times from your Google Calendar, and books with one click. Powered by Claude AI. Inspired by BlockIt. |
+| 📺 [PhiloScreen](https://github.com/phillipan14/philoscreen) | **You love your screen too much.** A passive-aggressive screen time monitor that sends escalating Slack DMs. |
+| 💔 [Girlfriend Mood Tracker](https://github.com/phillipan14/girlfriend-mood-tracker) | **Predict relationship danger zones.** Cross-references text response times, emoji usage, and calendar events. Zero dependencies. One HTML file. |
+| 📊 [Infographic Generator](https://github.com/phillipan14/infographic-generator) | **Beautiful infographics from text prompts.** Generate stunning visual content using AI. |
 
 ---
 
