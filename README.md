@@ -19,6 +19,7 @@ Caltech CS → McKinsey → founder. Harvard HBS MS/MBA. Schwarzman Scholar (C10
 
 | Project | What it does |
 |---------|-------------|
+| 📝 [Phillnola](https://github.com/phillipan14/phillnola) | **AI meeting notes that stay on your machine.** Record any meeting, get live Whisper transcription, then AI-structured summaries via GPT-4o or Claude. Rich text editor, customizable recipes for different meeting types, Google Calendar sync. Electron + React, 100% local SQLite storage. No bot joins your call. |
 | 🎙️ [Philoquent](https://github.com/phillipan14/philoquent) | **Voice-to-text that just works.** Hold Fn+Tab, speak naturally, release — your words appear wherever your cursor is. Live transcription preview as you talk, accurate final output. 100% local, nothing leaves your machine. Great for emails, docs, Slack messages, or anywhere you'd rather talk than type. |
 | 🎨 [Philadeck](https://github.com/phillipan14/philadeck) | **Slide decks in seconds.** Describe your topic, review an AI-generated outline, then get a full presentation with charts, images, diagrams, and 12 beautiful themes. Edit everything inline, drag to reorder, export to PowerPoint/Keynote. No signup required — runs in your browser. |
 | 🎵 [PhilHarmonic](https://github.com/phillipan14/philharmonic) | **Create music from a text prompt.** Type a mood or genre ("lo-fi beats for studying", "epic cinematic orchestral") and get original audio powered by MiniMax Music v2. 10 genre presets, waveform visualizer, download as MP3. Open-source. |
